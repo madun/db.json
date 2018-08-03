@@ -1,0 +1,18 @@
+[
+  {
+    "team": "Boston Celtics",
+    "test": "one"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "test": "two"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "test": "three"
+  },
+  {
+    "team": "Houston Rockets",
+    "test": "four"
+  }
+]
